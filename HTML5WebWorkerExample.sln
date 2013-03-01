@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTML5WebWorkerExample", "HTML5WebWorkerExample\HTML5WebWorkerExample.csproj", "{BF3793E2-8426-4500-AA5C-37077B7D544E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF3793E2-8426-4500-AA5C-37077B7D544E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF3793E2-8426-4500-AA5C-37077B7D544E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF3793E2-8426-4500-AA5C-37077B7D544E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF3793E2-8426-4500-AA5C-37077B7D544E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

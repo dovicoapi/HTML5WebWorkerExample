@@ -1,0 +1,27 @@
+﻿H1 {
+    font-size:16pt;
+}
+
+#divEmployeeList {
+    margin-top:10px;
+    width: 300px;
+    border: 1px solid black;
+    cursor:default;
+}
+    #divEmployeeList > DIV {
+        padding: 2px;
+    }
+        #divEmployeeList > DIV > IMG {
+            vertical-align: middle;
+        }
+        #divEmployeeList > DIV > SPAN {
+            padding-left: 4px;
+        }
+#cmdListPageUp, #cmdListPageDown {
+    width: 100%;
+}
+.ListItemSelected {
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+}
